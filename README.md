@@ -35,7 +35,6 @@ If the above command doesn't open your browser automatically, you have to visit 
 ## Foreword: What is Webpack
 
 Webpack is a front-end tool to build JavaScript module scripts for browsers.
-Webpack是一个为浏览器构建JavaScript模块脚本的前端工具。
 
 It can be used similar to Browserify, and do much more.
 
